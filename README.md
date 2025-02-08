@@ -2,7 +2,7 @@
 
 Terminal Based:
 
-The task is to implement an efficient Garage Locator System for a monster campus represented as a Cartesian plane. Users can locate garages near their position and query specific coordinates to check for a garage and its rank in a sorted list.
+The task is to implement an efficient Garage Locator System for a campus represented as a Cartesian plane. Users can locate garages near their position and query specific coordinates to check for a garage and its rank in a sorted list.
 
 The program's key features include:
 
