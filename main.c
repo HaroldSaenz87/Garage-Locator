@@ -1,4 +1,4 @@
-/* COP 3502C Programming Assignment 4
+/* 
 This program is written by: Harold Saenz */
 
 
